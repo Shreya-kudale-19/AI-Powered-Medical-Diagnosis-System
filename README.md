@@ -1,2 +1,2 @@
 # AI-Powered-Medical-Diagnosis-System
-This project implements an AI-powered medical diagnosis system capable of predicting diseases such as diabetes and lung cancer. It leverages machine learning models for accurate and efficient diagnosis based on patient data.
+An advanced AI-driven diagnostic system leveraging machine learning models to predict multiple diseases, including Diabetes, Heart Disease, Parkinson’s, Lung Cancer, and Hypo-Thyroid. Developed using Streamlit, the system provides an intuitive user interface for symptom-based diagnosis, delivering high-accuracy predictions with real-time insights. The project integrates multiple classification models to enhance predictive performance and optimize healthcare decision-making.
